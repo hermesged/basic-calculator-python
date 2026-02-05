@@ -24,4 +24,4 @@ def calculator():
         return
     print(f"The result is: {result}")
     
-
+calculator()
