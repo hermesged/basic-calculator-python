@@ -1,11 +1,8 @@
 def calculator():
-    print('Welcome to the calclator programme!')
-    print('Please enter the first number:')
-    nombre1 = float(input())    
-    print('Please enter the second number:')
-    nombre2 = float(input())
-    print('Please enter the operation you want to perform (+, -, *, /):')
-    operation = input()
+    print('Welcome to the calculator programme!')
+    nombre1 = float(input('Please enter the first number: '))    
+    nombre2 = float(input('Please enter the second number: '))
+    operation = input('Please enter the operation you want to perform (+, -, *, /): ')
     
     if operation == '+':
         result = nombre1 + nombre2
