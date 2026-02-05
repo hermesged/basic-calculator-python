@@ -15,3 +15,15 @@ This project is designed for beginners learning Python and demonstrates basics c
 5. The program asks the user the operation (+, -, *, /)
 6. The user should enter the operation 
 7. The selected operaton is done between both numbers by the program and prints the result
+
+
+# Requirements
+. Python 3.x
+
+# How to run 
+git clone git@github.com:hermesged/basic-calculator-python.git
+cd basic-calculator-python
+python calculator.py
+
+# Author
+Hermes HOUNKANLIN
